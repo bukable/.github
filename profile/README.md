@@ -1,5 +1,47 @@
-## Hi there 👋
+# Hello, we are the developers of Bukable
 
+Here we openly talk about how we create and develop Bukable, as well as about the values, principles, business processes, tools and rules of life of our team.
+
+# Briefly about the Bukable team
+
+Our team appeared on October 26, 2021 in Saint-Petersburg.
+
+In 2021, there were 3 of us, now there are more than 8.
+
+As an IT team, we continue to grow and scale with the business.
+
+# Briefly in numbers
+
+| We | Numbers and signs|
+|:------------- |:---------------:|
+| Total employees in the company | 8+ |
+|IT team | 8+ |
+|Number of countries | 3 |
+|Number of clients | 50+ |
+
+# Briefly about technologies
+
+* Backend:
+  * Java 11
+  * Spring Framework
+  * Spring Boot
+  * Spring Security
+  * Spring Data JPA
+  * Spring REST
+  * Spring Integration/Camel/Spark
+  * Maven
+  * PostgreSQL
+  * JUnit 5
+  * Mockito
+  * Jira, GitHub
+* Frontend:
+  * HTML/CSS/JavaScript
+  * React.js
+  * Tailwind CSS v3.0
+  * Framework7
+  
+  
+  
 <!--
 
 **Here are some ideas to get you started:**
