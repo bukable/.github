@@ -2,6 +2,8 @@
 
 Here we openly talk about how we create and develop Bukable, as well as about the values, principles, business processes, tools and rules of life of our team.
 
+[![https://bukable.co/](https://github.com/bukable/.github/blob/main/twitter-cover.png)](https://bukable.co/)
+
 # Briefly about the Bukable team
 
 Our team appeared on October 26, 2021 in Saint-Petersburg.
