@@ -6,7 +6,7 @@ Here we openly talk about how we create and develop Bukable, as well as about th
 
 # Briefly about the Bukable team
 
-Our team appeared on October 26, 2021 in Saint-Petersburg.
+Our team appeared on November 7, 2021 in Saint-Petersburg.
 
 In 2021, there were 3 of us, now there are more than 8.
 
