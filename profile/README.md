@@ -1,7 +1,5 @@
 # Hello, we are the developers of Bukable
 
-Here we openly talk about how we create and develop Bukable, as well as about the values, principles, business processes, tools and rules of life of our team.
-
 [![https://bukable.co/](https://github.com/bukable/.github/blob/main/twitter-cover.png)](https://bukable.co/)
 
 # Briefly about the Bukable team
