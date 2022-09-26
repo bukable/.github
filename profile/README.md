@@ -4,7 +4,7 @@
 
 # Briefly about the Bukable team
 
-In 2021, there were 3 of us, now there are more than 8.
+In 2021, there were 3 of us, now there are more than 7.
 
 As an IT team, we continue to grow and scale with the business.
 
