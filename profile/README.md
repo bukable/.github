@@ -6,8 +6,6 @@ Here we openly talk about how we create and develop Bukable, as well as about th
 
 # Briefly about the Bukable team
 
-Our team appeared on November 7, 2021 in Saint-Petersburg.
-
 In 2021, there were 3 of us, now there are more than 8.
 
 As an IT team, we continue to grow and scale with the business.
@@ -16,8 +14,8 @@ As an IT team, we continue to grow and scale with the business.
 
 | We | Numbers and signs|
 |:------------- |:---------------:|
-| Total employees in the company | 8+ |
-|IT team | 8+ |
+| Total employees in the company | 7+ |
+|IT team | 7+ |
 |Number of countries | 3 |
 |Number of clients | 50+ |
 
@@ -39,8 +37,7 @@ As an IT team, we continue to grow and scale with the business.
 * Frontend:
   * HTML/CSS/JavaScript
   * React.js
-  * Tailwind CSS v3.0
-  * Framework7
+  * Next.js
   
   
   
